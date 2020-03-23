@@ -1,5 +1,5 @@
 # rjh_SpringPjt
-Progressing project 'MyLOL'
--Summoner's Rift Information
--Teamfight Tactics Information
--Personal Management System
+Progressing project 'MyLOL' <br/>
+-Summoner's Rift Information <br/>
+-Teamfight Tactics Information <br/>
+-Personal Management System <br/>
