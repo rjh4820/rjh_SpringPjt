@@ -1,2 +1,5 @@
 # rjh_SpringPjt
-진행 중
+Progressing project 'MyLOL'
+-Summoner's Rift Information
+-Teamfight Tactics Information
+-Personal Management System
