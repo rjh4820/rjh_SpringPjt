@@ -2,4 +2,4 @@
 Progressing project 'MyLOL' <br/>
 -Summoner's Rift Information <br/>
 -Teamfight Tactics Information (Undetermined) <br/>
--Personal Management System <br/>
+-My Champion Personal Management System <br/>
